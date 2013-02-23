@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_tgt.o := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/scsi/scsi_tgt.o drivers/scsi/scsi_tgt_lib.o drivers/scsi/scsi_tgt_if.o 

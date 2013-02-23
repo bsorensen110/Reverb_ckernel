@@ -1,0 +1,1 @@
+cmd_drivers/char/diag/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/char/diag/built-in.o drivers/char/diag/diagchar.o drivers/char/diag/diagfwd_sdio.o 

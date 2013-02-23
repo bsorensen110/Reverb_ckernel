@@ -1,0 +1,1 @@
+cmd_drivers/video/msm/vidc/vidc_vdec.o := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/video/msm/vidc/vidc_vdec.o drivers/video/msm/vidc/common/dec/vdec.o 

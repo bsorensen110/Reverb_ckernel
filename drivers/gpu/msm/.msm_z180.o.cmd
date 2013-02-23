@@ -1,0 +1,1 @@
+cmd_drivers/gpu/msm/msm_z180.o := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/gpu/msm/msm_z180.o drivers/gpu/msm/z180.o drivers/gpu/msm/z180_trace.o 

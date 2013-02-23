@@ -1,0 +1,1 @@
+cmd_drivers/video/display/built-in.o :=  rm -f drivers/video/display/built-in.o; /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ar rcsD drivers/video/display/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/video/gspca/gspca_main.o := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/media/video/gspca/gspca_main.o drivers/media/video/gspca/gspca.o 

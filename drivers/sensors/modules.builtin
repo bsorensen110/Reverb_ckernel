@@ -1,0 +1,5 @@
+kernel/drivers/sensors/yas_acc_kernel_driver.ko
+kernel/drivers/sensors/yas_mag_kernel_driver.ko
+kernel/drivers/sensors/yas532_orient.ko
+kernel/drivers/sensors/taos.ko
+kernel/drivers/sensors/sensors_core.ko

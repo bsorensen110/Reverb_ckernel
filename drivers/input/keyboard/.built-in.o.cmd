@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/pmic8xxx-keypad.o drivers/input/keyboard/cypress_touchkey/built-in.o 

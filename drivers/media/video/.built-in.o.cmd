@@ -1,0 +1,1 @@
+cmd_drivers/media/video/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/media/video/built-in.o drivers/media/video/videodev.o drivers/media/video/v4l2-int-device.o drivers/media/video/v4l2-common.o drivers/media/video/ir-kbd-i2c.o drivers/media/video/davinci/built-in.o drivers/media/video/msm/built-in.o 

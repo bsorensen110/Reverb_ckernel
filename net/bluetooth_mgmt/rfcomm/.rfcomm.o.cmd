@@ -1,0 +1,1 @@
+cmd_net/bluetooth_mgmt/rfcomm/rfcomm.o := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o net/bluetooth_mgmt/rfcomm/rfcomm.o net/bluetooth_mgmt/rfcomm/core.o net/bluetooth_mgmt/rfcomm/sock.o net/bluetooth_mgmt/rfcomm/tty.o 

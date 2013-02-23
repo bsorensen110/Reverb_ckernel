@@ -1,0 +1,1 @@
+cmd_sound/usb/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o sound/usb/built-in.o sound/usb/misc/built-in.o sound/usb/usx2y/built-in.o sound/usb/caiaq/built-in.o sound/usb/6fire/built-in.o 
