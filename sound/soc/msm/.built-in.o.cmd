@@ -1,1 +1,0 @@
-cmd_sound/soc/msm/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o sound/soc/msm/built-in.o sound/soc/msm/snd-soc-msm7kv2-dai.o sound/soc/msm/snd-soc-msmv2.o sound/soc/msm/snd-soc-msm7kv2.o sound/soc/msm/snd-soc-msm-mvs-dai.o sound/soc/msm/snd-soc-msm-mvs.o 

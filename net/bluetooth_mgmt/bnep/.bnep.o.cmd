@@ -1,1 +1,0 @@
-cmd_net/bluetooth_mgmt/bnep/bnep.o := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o net/bluetooth_mgmt/bnep/bnep.o net/bluetooth_mgmt/bnep/core.o net/bluetooth_mgmt/bnep/sock.o net/bluetooth_mgmt/bnep/netdev.o 

@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/libra/librasdioif.o := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/net/wireless/libra/librasdioif.o drivers/net/wireless/libra/libra_sdioif.o drivers/net/wireless/libra/../wcnss/qcomwlan_secif.o 

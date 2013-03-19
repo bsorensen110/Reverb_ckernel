@@ -1,1 +1,0 @@
-cmd_drivers/media/rc/rc-core.o := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/media/rc/rc-core.o drivers/media/rc/rc-main.o drivers/media/rc/ir-raw.o 

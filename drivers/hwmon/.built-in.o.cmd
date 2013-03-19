@@ -1,1 +1,0 @@
-cmd_drivers/hwmon/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/hwmon/built-in.o drivers/hwmon/hwmon.o drivers/hwmon/msm_adc.o drivers/hwmon/m_adcproc.o 

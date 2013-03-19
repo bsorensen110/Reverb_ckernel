@@ -1,4 +1,0 @@
-kernel/drivers/input/keyboard/cypress_touchkey/cypress-touchkey.ko
-kernel/drivers/input/keyboard/cypress_touchkey/issp_main.ko
-kernel/drivers/input/keyboard/cypress_touchkey/issp_routines.ko
-kernel/drivers/input/keyboard/cypress_touchkey/issp_driver_routines.ko

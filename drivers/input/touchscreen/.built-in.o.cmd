@@ -1,1 +1,0 @@
-cmd_drivers/input/touchscreen/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/ftk.o drivers/input/touchscreen/melfas_mcs7000.o 

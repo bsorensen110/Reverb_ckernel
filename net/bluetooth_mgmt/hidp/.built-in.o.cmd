@@ -1,1 +1,0 @@
-cmd_net/bluetooth_mgmt/hidp/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o net/bluetooth_mgmt/hidp/built-in.o net/bluetooth_mgmt/hidp/hidp.o 

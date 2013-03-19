@@ -1,1 +1,0 @@
-cmd_drivers/media/video/gspca/gspca_main.ko := /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL -r  -T /home/belial/android/sph-m950/kernel_compiling/scripts/module-common.lds --build-id  -o drivers/media/video/gspca/gspca_main.ko drivers/media/video/gspca/gspca_main.o drivers/media/video/gspca/gspca_main.mod.o

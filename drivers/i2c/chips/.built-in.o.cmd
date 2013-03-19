@@ -1,1 +1,0 @@
-cmd_drivers/i2c/chips/built-in.o :=  /home/belial/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/arm-none-eabi-ld -EL    -r -o drivers/i2c/chips/built-in.o drivers/i2c/chips/yda173.o drivers/i2c/chips/fsa9485.o 
